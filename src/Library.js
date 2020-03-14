@@ -25,7 +25,7 @@ class Library extends Component {
                         </Button>
                         <InputGroup className="mb-3">
                             <InputGroup.Prepend>
-                            <Button variant="outline-secondary">Button</Button>
+                            <Button variant="outline-secondary">Close</Button>
                             </InputGroup.Prepend>
                             <FormControl aria-describedby="basic-addon1" placeholder="Search by title or author"/>
                         </InputGroup>
